@@ -1,0 +1,93 @@
+let songInfo = { 
+	title: 'Jibber and Twitch (Seaside Version)',
+	lyrics: [
+		"Try to relax me now but then again",
+		"Oh no! Isn't it good?",
+		"Why do I feel so misunderstood?",
+		"Could it be that I'm peeling?",
+		"Look at my finger",
+		"Wait here just for a moment",
+		"Look at me wiggle",
+		"No wonder I'm feeling bored all the time",
+		"Could it be that I'm wrong",
+		"I'm right I'm wrong but then again",
+		"Oh it would be nice for everyone",
+		"It would be nice for everyone",
+		"Oh what a lovely way to be",
+		"Oh what a lovely way to be",
+		"It would be nice for everyone",
+		"It would be nice for everyone",
+		"Oh what a lovely way to be",
+		"Oh what a lovely way to be",
+		"Sit me down and make me stay",
+		"To say the first things on my mind",
+		"\"My Soldier",
+		"Will Hay",
+		"Silver bells and cockle shells",
+		"And, er pretty maids all in a row\"",
+		"'Cause my leg is a part of me",
+		"I always knew what was wrong with me",
+		"I could tell by my general attitude, attitude",
+		"I always knew it would get physical",
+		"I could tell by my longitude altitude oh...",
+		"What's on the table?",
+		"Good Lord! Look at the cakes!",
+		"I'm going to go and mess them all up",
+		"Or is it that I'm dreaming?",
+		"Look at my finger",
+		"Wait here just for a moment",
+		"Look at me wiggle",
+		"No wonder I'm feeling bored all the time",
+		"Could it be that I'm wrong",
+		"I'm right I'm wrong but then again",
+		"Oh it would be nice for everyone",
+		"It would be nice for everyone",
+		"Oh what a lovely way to be",
+		"Oh what a lovely way to be",
+		"It would be nice for everyone",
+		"It would be nice for everyone",
+		"Oh what a lovely way to be",
+		"Oh what a lovely way to be",
+		"Sit me down and make me stay",
+		"To say the first things on my mind",
+		"\"My Soldier",
+		"Will Hay",
+		"Silver bells and cockle shells",
+		"And, er pretty maids all in a row\"",
+		"I always knew what was wrong with me",
+		"I could tell by my general attitude, attitude",
+		"I always knew it would get physical",
+		"As a part of my longitude altitude",
+		"It's the same I sometimes wonder",
+		"If something or other's in my headbone",
+		"It's the same I sometimes wonder",
+		"If something or other's in my headbone",
+		"Look at my finger",
+		"Wait here just for a moment",
+		"Look at me wiggle",
+		"No wonder I'm feeling bored all the time",
+		"Could it be that I'm wrong?",
+		"I'm right I'm wrong but then again"
+	],
+	navbox: {
+		file: 'seaside.jpg',
+		name: 'Jibber and Twitch',
+		caption: 'Heeeeeeeemiola',
+		info: [{
+			heading: 'Information',
+			info: [{
+				name: 'Album',
+				info: ['The Seaside']
+			}, {
+				name: 'Song Number',
+				info: ['1']
+			}, {
+				name: 'Previous',
+				info: ['None']
+			}, {
+				name: 'Next',
+				info: ['<a href="index.html?p=ginaSeaside">Gina Lollabrigida</a>']
+			}]
+		}]
+	}
+};
