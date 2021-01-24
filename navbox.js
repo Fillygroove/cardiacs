@@ -16,11 +16,12 @@ bottomBoxes.push({
 				'Trade Mark'
 			]
 		}, {
-			name: 'A Bus For A Bus On The Bus',
+			name: 'Cardiac Arrest EP',
 			info: [
-				'<a href="./index.html?l=aBusABFABOTB">A Bus for a Bus on the Bus</a>',
-				'<a href="./index.html?l=aCakeABFABOTB">A Cake for Bertie\'s Party</a>',
-				'<a href="./index.html?l=foodABFABOTB">Food on the Wall</a>',
+				'<a href="./index.html?s=bus-bus">A Bus for a Bus on the Bus</a>',
+				'<a href="./index.html?s=bus-cake">A Cake for Bertie\'s Party</a>',
+				'<a href="./index.html?s=bus-food">Food on the Wall</a>',
+				'Keep Your Dead Mice With You'
 			]
 		}, {
 			name: 'The Obvious Identity',
@@ -35,29 +36,24 @@ bottomBoxes.push({
 		}, {
 			name: 'The Seaside',
 			info: [
-				'<a href="./index.html?l=jibberAndTwitchSeaside">Jibber And Twitch</a>',
-				'<a href="./index.html?l=ginaSeaside">Gina Lollibrigida</a>',
-				'<a href="./index.html?l=sparrowSeaside">Hello Mr. Sparrow</a>',
-				'<a href="./index.html?l=lovelyDaySeaside">It\'s a Lovely Day</a>',
-				'<a href="./index.html?l=woodenFishSeaside">A Wooden Fish on Wheels</a>',
-				'<a href="./index.html?l=nursesSeaside">Nurses Whispering Verses</a>',
-				'<a href="./index.html?l=isThisTheLifeSeaside">A Little Man and a House</a>',
-				'<a href="./index.html?l=aLittleManAndAHouseSeaside">A Little Man and a House</a>',
-				'<a href="./index.html?l=hopeDaySeaside">Hope Day</a>',
-				'<a href="./index.html?l=dinnerSeaside">Dinner Time</a>',
-				'<a href="./index.html?l=iceSeaside">Ice a Spot and a Dot on the Dog</a>',
-				'<a href="./index.html?l=resSeaside">R.E.S.</a>',
-				'<a href="./index.html?l=toGoOffAndThingsSeaside">To Go Off and Things</a>',
+				'<a href="./index.html?s=seaside-jibber">Jibber And Twitch</a>',
+				'<a href="./index.html?s=seaside-jina">Gina Lollibrigida</a>',
+				'<a href="./index.html?s=seaside-sparrow">Hello Mr. Sparrow</a>',
+				'<a href="./index.html?s=seaside-lovelyday">It\'s a Lovely Day</a>',
+				'<a href="./index.html?s=seaside-wood">A Wooden Fish on Wheels</a>',
+				'<a href="./index.html?s=seaside-nurses">Nurses Whispering Verses</a>',
+				'<a href="./index.html?s=seaside-life">A Little Man and a House</a>',
+				'<a href="./index.html?s=seaside-littleManAndAHouse">A Little Man and a House</a>',
+				'<a href="./index.html?s=seaside-hopeDay">Hope Day</a>',
+				'<a href="./index.html?s=seaside-dinner">Dinner Time</a>',
+				'<a href="./index.html?s=seaside-ice">Ice a Spot and a Dot on the Dog</a>',
+				'<a href="./index.html?s=seaside-res">R.E.S.</a>',
+				'<a href="./index.html?s=seaside-toGoOffAndThings">To Go Off and Things</a>',
 			]
 		}]
 	}, {
 		category: 'The Sextet Era',
 		info: [{
-			name: 'Big Ship',
-			info: [
-				'songs here'
-			]
-		}, {
 			name: 'A Little Man and a House and the Whole World Window',
 			info: [
 				'songs here',
@@ -71,6 +67,21 @@ bottomBoxes.push({
 			name: 'Archive Cardiacs',
 			info: [
 				'songs here',
+			]
+		}, {
+			name: 'Songs For Ships And Irons',
+			info: [
+				'Big Ship',
+				'Tarred and Feathered',
+				'Burn Your House Brown',
+				'Stoneage Dinosaurs',
+				'Plane Plane Against the Grain',
+				'Everything Is Easy',
+				'There\'s Too Many Irons In the Fire',
+				'All Spectacular',
+				'<a href="./index.html?s=sfsai-blind">Blind In Safety and Leafy In Love</a>',
+				'Loosefish Scapegrace',
+				'All His Geese Are Swans'
 			]
 		}]
 	}, {
@@ -148,7 +159,7 @@ bottomBoxes.push({
 				"Piffol Five Times",
 				"Piffol Six Times",
 				"Protocol",
-				'<a href="./index.html?l=silveryRadioSession">Silvery</a>',
+				'<a href="./index.html?s=misc-silveryRadioSession">Silvery</a>',
 				"Time and Space"
 			]
 		}]

@@ -1,4 +1,15 @@
-let pageList = ['main', 'toGoOffAndThingsSeaside', 'aLittleManAndAHouseSeaside', 'jibberAndTwitchSeaside', 'silveryRadioSession', 'aBusABFABOTB'];
+let pageList = ['main',
+	// Cardiac Arrest EP
+	'bus-bus', 'bus-cake', 'bus-food',
+	// The Seaside
+	'seaside-jibber', 'seaside-littleManAndAHouse', 'seaside-toGoOffAndThings', 'seaside-hopeDay', 'seaside-sparrow',
+	// Songs For Ships And Irons
+	'sfsai-blind',
+	// Special Garage Concerts V1
+	'sgc-hopeDay',
+	// Rarities?
+	'misc-silveryRadioSession',
+];
 
 function correctLinks() {
 	let pageLinks = document.getElementsByTagName('a');
@@ -21,10 +32,9 @@ metaCss.rel = 'stylesheet';
 metaCss.href = `index.css`;
 
 document.head.append(metaCss);
-
+ 
 scriptLoader = document.createElement('script');
 scriptLoader.src = `./pageSetup.js`;
 textArea.append(scriptLoader);
 
 document.getElementsByTagName('body')[0].append(textArea);
-

@@ -18,7 +18,7 @@ if (songInfo.navbox != undefined) {
 	navbox.style = "width: 22em";
 	
 	let caption = document.createElement('caption');
-	caption.innerHTML = songInfo.navbox.name ? songInfo.navbox.name : songInfo.name;
+	caption.innerHTML = songInfo.navbox.name ? songInfo.navbox.name : songInfo.title;
 			
 	let navbody = document.createElement('tbody');
 	
@@ -34,8 +34,6 @@ if (songInfo.navbox != undefined) {
 	imgnav.alt = songInfo.navbox.file;
 	imgnav.src = `./covers/${songInfo.navbox.file}`;
 	imgnav.style = 'max-width: 300px; width: 300px;';
-//	imgnav.width = page.navbox.dims[0];
-//	imgnav.height = page.navbox.dims[1];
 	
 	capa.innerHTML = songInfo.navbox.caption;
 	capa.style = 'font-size: 0.8em;';
@@ -49,9 +47,6 @@ if (songInfo.navbox != undefined) {
 	navbody.append(imagetr);
 	
 	for (let k = 0; k < songInfo.navbox.info.length; k++) {
-		
-		console.log(songInfo.navbox.info[k]);
-
 		let headingtr = document.createElement('tr');
 		let headingth = document.createElement('th');
 		

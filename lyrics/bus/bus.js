@@ -27,7 +27,7 @@ let songInfo = {
 			heading: 'Information',
 			info: [{
 				name: 'Album',
-				info: ['A Bus For A Bus On The Bus']
+				info: ['Cardiac Arrest EP']
 			}, {
 				name: 'Song Number',
 				info: ['1']
@@ -36,7 +36,7 @@ let songInfo = {
 				info: ['None']
 			}, {
 				name: 'Next',
-				info: ['<a href="index.html?p=cakeABFABOTB">A Cake For Bertie\'s Party</a>']
+				info: ['<a href="index.html?s=bus-cake">A Cake For Bertie\'s Party</a>']
 			}]
 		}]
 	}

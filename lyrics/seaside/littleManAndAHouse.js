@@ -65,10 +65,10 @@ let songInfo = {
 				info: ['8']
 			}, {
 				name: 'Previous',
-				info: ['<a href="index.html?p=isThisTheLifeSeaside">Is This The Life?</a>']
+				info: ['<a href="index.html?s=seaside-life">Is This The Life?</a>']
 			}, {
 				name: 'Next',
-				info: ['<a href="index.html?p=hopeDaySeaside">Hope Day</a>']
+				info: ['<a href="index.html?s=seaside-hopeDay">Hope Day</a>']
 			}]
 		}]
 	}

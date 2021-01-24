@@ -40,7 +40,7 @@ let songInfo = {
 				info: ['13']
 			}, {
 				name: 'Previous',
-				info: ['<a href="index.html?p=resSeaside">RES</a>']
+				info: ['<a href="index.html?s=seaside-res">R.E.S.</a>']
 			}, {
 				name: 'Next',
 				info: ['None']
