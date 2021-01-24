@@ -1,14 +1,20 @@
 let pageList = ['main',
 	// Cardiac Arrest EP
 	'bus-bus', 'bus-cake', 'bus-food',
+	// Toy World
+	'toy-life',
 	// The Seaside
 	'seaside-jibber', 'seaside-littleManAndAHouse', 'seaside-toGoOffAndThings', 'seaside-hopeDay', 'seaside-sparrow',
 	// Songs For Ships And Irons
 	'sfsai-blind',
-	// Special Garage Concerts V1
+	// Sing To God
+	'stg-eden', 'stg-wormsHero', 'stg-sparky', 'stg-fieryGunHand', 'stg-lassie', 'stg-fairyMaryMag', 'stg-bellyeye', 'stg-horsesTail', 'stg-manhoo', 'stg-wireless', 'stg-dirtyBoy', 'stg-billion', 'stg-oddEven',
+	// Special Garage Concerts vol 1
 	'sgc-hopeDay',
-	// Rarities?
-	'misc-silveryRadioSession',
+	// Rarities
+	'misc-silveryRadioSession', 'misc-piffol5', 'misc-piffol6',
+	// Archives
+	'archives-piffol1', 'archives-tvtv', 'archives-piffol3', 'archives-piffol4',
 ];
 
 function correctLinks() {

@@ -87,7 +87,7 @@ let songInfo = {
 				info: ['None']
 			}, {
 				name: 'Next',
-				info: ['<a href="index.html?l=seaside-gina">Gina Lollabrigida</a>']
+				info: ['<a href="index.html?s=seaside-gina">Gina Lollabrigida</a>']
 			}]
 		}]
 	}

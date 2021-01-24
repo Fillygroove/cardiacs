@@ -31,13 +31,23 @@ bottomBoxes.push({
 		}, {
 			name: 'Toy World',
 			info: [
-				'songs here',
+				'Aukamacic',
+				'Icky Qualms',
+				'Over + Over + Over + Over',
+				'Dead Mouse',
+				'A Big Noise in a Toy World',
+				'Trademark',
+				'Scratching Crawling Scrawling',
+				'As Cold As Can Be In An English Sea',
+				'<a href="./index.html?s=toy-life">Is This the Life?</a>',
+				'Nurses Whispering Verses',
+				'A Time For Rejoicing',
 			]
 		}, {
 			name: 'The Seaside',
 			info: [
 				'<a href="./index.html?s=seaside-jibber">Jibber And Twitch</a>',
-				'<a href="./index.html?s=seaside-jina">Gina Lollibrigida</a>',
+				'<a href="./index.html?s=seaside-jina">Gina Lollobrigida</a>',
 				'<a href="./index.html?s=seaside-sparrow">Hello Mr. Sparrow</a>',
 				'<a href="./index.html?s=seaside-lovelyday">It\'s a Lovely Day</a>',
 				'<a href="./index.html?s=seaside-wood">A Wooden Fish on Wheels</a>',
@@ -66,7 +76,18 @@ bottomBoxes.push({
 		}, {
 			name: 'Archive Cardiacs',
 			info: [
-				'songs here',
+				'Aukamacic',
+				'Icky Qualms',
+				'<a href="./index.html?s=archives-piffol4">Piffol Four Times</a>',
+				'Scratching Crawling Scrawling',
+				'As Cold As Can Be In an English Sea',
+				'<a href="./index.html?s=archives-tvtv">T.V.T.V.</a>',
+				'My Trade Mark',
+				'The Obvious Identity',
+				'<a href="./index.html?s=archives-piffol1">Piffol One Time</a>',
+				'A Game for Bertie\'s Party',
+				'<a href="./index.html?s=archives-piffol3">Piffol Three Times</a>',
+				'Rock Around the Clock'
 			]
 		}, {
 			name: 'Songs For Ships And Irons',
@@ -119,7 +140,19 @@ bottomBoxes.push({
 		}, {
 			name: 'Sing to God',
 			info: [
-				'songs here',
+				'<a href="./index.html?s=stg-eden">Eden on the Air</a>',
+				'<a href="./index.html?s=stg-wormsHero">Eat It Up Worms Hero</a>',
+				'<a href="./index.html?s=stg-sparky">Dog-Like Sparky</a>',
+				'<a href="./index.html?s=stg-fieryGunHand">Fiery Gun Hand</a>',
+				'<a href="./index.html?s=stg-lassie">Insect Hooves On Lassie</a>',
+				'<a href="./index.html?s=stg-fairyMaryMag">Fairy Mary Mag</a>',
+				'<a href="./index.html?s=stg-bellyeye">Bellyeye</a>',
+				'<a href="./index.html?s=stg-horsesTail">A Horses Tail</a>',
+				'<a href="./index.html?s=stg-manhoo">Manhoo</a>',
+				'<a href="./index.html?s=stg-wireless">Wireless</a>',
+				'<a href="./index.html?s=stg-dirtyBoy">Dirty Boy</a>',
+				'<a href="./index.html?s=stg-billion">Billion</a>',
+				'<a href="./index.html?s=stg-oddEven">Odd Even</a>',
 			]
 		}, {
 			name: 'Guns',
@@ -156,8 +189,8 @@ bottomBoxes.push({
 				"Lemmings",
 				"London",
 				"The New General",
-				"Piffol Five Times",
-				"Piffol Six Times",
+				'<a href="./index.html?s=misc-piffol5">Piffol Five Times</a>',
+				'<a href="./index.html?s=misc-piffol6">Piffol Six Times</a>',
 				"Protocol",
 				'<a href="./index.html?s=misc-silveryRadioSession">Silvery</a>',
 				"Time and Space"
