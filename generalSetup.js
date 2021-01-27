@@ -2,7 +2,7 @@ let pageList = ['main',
 	// Cardiac Arrest EP
 	'bus-bus', 'bus-cake', 'bus-food',
 	// Toy World
-	'toy-life',
+	'toy-life', 'toy-aukamacic', 'toy-qualms', 'toy-scrawl', 'toy-sea',
 	// The Seaside
 	'seaside-jibber', 'seaside-littleManAndAHouse', 'seaside-toGoOffAndThings', 'seaside-hopeDay', 'seaside-sparrow',
 	// Songs For Ships And Irons
@@ -33,12 +33,6 @@ function correctLinks() {
 let textArea = document.createElement('div');
 textArea.className = 'text-area';
 
-let metaCss = document.createElement('link');
-metaCss.rel = 'stylesheet';
-metaCss.href = `index.css`;
-
-document.head.append(metaCss);
- 
 scriptLoader = document.createElement('script');
 scriptLoader.src = `./pageSetup.js`;
 textArea.append(scriptLoader);

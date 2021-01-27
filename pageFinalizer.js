@@ -177,3 +177,13 @@ for (let i = 0; i < bottomBoxes.length; i++) {
 }
 
 correctLinks();
+
+if (songInfo.navbox) {
+	console.log(songInfo.navbox.file);
+	//<link rel="icon" type="image/png" href="./favicon.png">
+	let favicon = document.createElement('link');
+	favicon.rel = 'icon';
+	favicon.type = 'image/png';
+	favicon.href = `./covers/${songInfo.navbox.file}`;
+	document.head.append(favicon);
+}
