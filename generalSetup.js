@@ -1,6 +1,8 @@
 let pageList = ['main',
 	// Cardiac Arrest EP
 	'bus-bus', 'bus-cake', 'bus-food',
+	// Obvious Identity
+	'obvious-balloon',
 	// Toy World
 	'toy-life', 'toy-aukamacic', 'toy-qualms', 'toy-scrawl', 'toy-sea',
 	// The Seaside
